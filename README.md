@@ -4,7 +4,7 @@ Search and explore anime with instant results powered by the free [Jikan API](ht
 
 ## Live Demo
 
-- _Add your deployed URL here once published (e.g., Netlify / Vercel)._
+- https://anime-yo-print.web.app/
 
 ## Tech Stack
 
